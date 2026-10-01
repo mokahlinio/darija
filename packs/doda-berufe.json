@@ -1,0 +1,118 @@
+{
+ "id": "doda-berufe",
+ "version": 1,
+ "title": "Wortschatz – Berufe",
+ "notes": "Weibliche Form meist +a: serbay → serbaya (Grammatik 4).\nmol = „der mit …“: mol taxi = Taxifahrer, mol l7ut = Fischverkäufer.\nArzt (tbib), Lehrer (ustad) und Student (talib) kennst du schon.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "Arbeit",
+   "khedma",
+   ""
+  ],
+  [
+   "Krankenpfleger / Krankenschwester",
+   "fermli / fermliya",
+   ""
+  ],
+  [
+   "Ingenieur",
+   "mohandis",
+   ""
+  ],
+  [
+   "Anwalt",
+   "mo7ami",
+   ""
+  ],
+  [
+   "Polizist",
+   "bulisi",
+   ""
+  ],
+  [
+   "Kellner",
+   "serbay",
+   ""
+  ],
+  [
+   "Kellnerin",
+   "serbaya",
+   ""
+  ],
+  [
+   "Friseur",
+   "7ejjam",
+   ""
+  ],
+  [
+   "Metzger",
+   "gezzar",
+   ""
+  ],
+  [
+   "Gemüsehändler",
+   "khddar",
+   ""
+  ],
+  [
+   "Schreiner",
+   "njjar",
+   ""
+  ],
+  [
+   "Fahrer",
+   "chifur",
+   ""
+  ],
+  [
+   "Taxifahrer",
+   "mol taxi",
+   ""
+  ],
+  [
+   "Fischverkäufer",
+   "mol l7ut",
+   ""
+  ],
+  [
+   "Mechaniker",
+   "mikanisyan",
+   ""
+  ],
+  [
+   "Elektriker",
+   "trisyan",
+   ""
+  ],
+  [
+   "Klempner",
+   "plombi",
+   ""
+  ],
+  [
+   "Bauer",
+   "fella7",
+   ""
+  ],
+  [
+   "Angestellter",
+   "mowaddaf",
+   ""
+  ],
+  [
+   "Journalist",
+   "sa7afi",
+   ""
+  ],
+  [
+   "Chef / Direktor",
+   "mudir",
+   ""
+  ],
+  [
+   "Schneider",
+   "khiyat",
+   ""
+  ]
+ ]
+}

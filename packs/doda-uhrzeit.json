@@ -1,0 +1,153 @@
+{
+ "id": "doda-uhrzeit",
+ "version": 1,
+ "title": "Wortschatz – Uhrzeit, Kalender & Monate",
+ "notes": "UHRZEIT\nch7al f sa3a? = Wie spät ist es?\nu rb3 = Viertel nach · u ness = halb · llarob3 = Viertel vor\ntlata u ness = 3:30 · khamsa u rb3 = 5:15 · stta llarob3 = 5:45\nAchtung: „halb vier“ heißt auf Darija „drei und halb“ (tlata u ness).\n\nMONATE\nIm Alltag oft einfach nummeriert: chher wa7ed = Januar, chher jouj = Februar …\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "Sekunde",
+   "tanya",
+   ""
+  ],
+  [
+   "Minute",
+   "d9i9a",
+   ""
+  ],
+  [
+   "Stunde / Uhr",
+   "sa3a",
+   ""
+  ],
+  [
+   "halbe Stunde",
+   "ness sa3a",
+   ""
+  ],
+  [
+   "Viertelstunde",
+   "rob3 sa3a",
+   ""
+  ],
+  [
+   "Viertel nach",
+   "u rb3",
+   ""
+  ],
+  [
+   "halb (nach der Stunde)",
+   "u ness",
+   "tlata u ness = halb vier"
+  ],
+  [
+   "Viertel vor",
+   "llarob3",
+   ""
+  ],
+  [
+   "halb vier (3:30)",
+   "tlata u ness",
+   "Darija zählt: drei und halb"
+  ],
+  [
+   "Viertel nach fünf (5:15)",
+   "khamsa u rb3",
+   ""
+  ],
+  [
+   "Viertel vor sechs (5:45)",
+   "stta llarob3",
+   ""
+  ],
+  [
+   "um drei Uhr",
+   "f ttlata",
+   "f = um"
+  ],
+  [
+   "Mittag",
+   "wst nhar",
+   "wörtlich: Mitte des Tages"
+  ],
+  [
+   "vorgestern",
+   "wellbar7",
+   ""
+  ],
+  [
+   "übermorgen",
+   "b3d ghedda",
+   ""
+  ],
+  [
+   "Wochenende",
+   "wikand",
+   ""
+  ],
+  [
+   "Zeit",
+   "w9t",
+   ""
+  ],
+  [
+   "Januar",
+   "yanayer / chher wa7ed",
+   ""
+  ],
+  [
+   "Februar",
+   "fbrayer / chher jouj",
+   ""
+  ],
+  [
+   "März",
+   "mars / chher tlata",
+   ""
+  ],
+  [
+   "April",
+   "abril / chher rb3a",
+   ""
+  ],
+  [
+   "Mai",
+   "may / chher khamsa",
+   ""
+  ],
+  [
+   "Juni",
+   "yunyu / chher stta",
+   ""
+  ],
+  [
+   "Juli",
+   "yulyuz / chher sb3a",
+   ""
+  ],
+  [
+   "August",
+   "ghucht / chher tmnya",
+   ""
+  ],
+  [
+   "September",
+   "chutanbir / chher ts3ud",
+   ""
+  ],
+  [
+   "Oktober",
+   "oktobr / chher 3chra",
+   ""
+  ],
+  [
+   "November",
+   "nuwanbir / chher 7dach",
+   ""
+  ],
+  [
+   "Dezember",
+   "dujanbir / chher tnach",
+   ""
+  ]
+ ]
+}

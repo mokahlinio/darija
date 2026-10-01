@@ -528,6 +528,11 @@ const views = {
       </div>
 
       <div class="card stack">
+        <h2>Quellen</h2>
+        <p class="muted small">Die Wortschatz-Lektionen basieren auf dem <a href="https://github.com/darija-open-dataset/dataset" target="_blank" rel="noopener"><u>Darija Open Dataset (DODa)</u></a>, Lizenz <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" target="_blank" rel="noopener"><u>CC BY-NC 4.0</u></a>. Für diese App ausgewählt, ins Deutsche übersetzt und an die Schreibweise angepasst. Die Grammatik-Lektionen sind aus YouTube-Lernvideos zusammengefasst, die Basics selbst zusammengestellt.</p>
+      </div>
+
+      <div class="card stack">
         <h2>Als App installieren</h2>
         <p class="muted small"><b>iPhone:</b> In Safari öffnen → Teilen-Symbol → „Zum Home-Bildschirm“.<br><b>Mac:</b> In Safari → Ablage → „Zum Dock hinzufügen“, oder in Chrome das Installieren-Symbol in der Adressleiste.</p>
       </div>

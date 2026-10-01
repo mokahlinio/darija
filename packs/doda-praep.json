@@ -1,0 +1,103 @@
+{
+ "id": "doda-praep",
+ "version": 1,
+ "title": "Wortschatz – Präpositionen",
+ "notes": "Viele Präpositionen nehmen die Besitz-Endungen an (Grammatik 5): m3a → m3aya = mit mir, m3ak = mit dir.\n3nd = bei: 3ndi = bei mir → „ich habe“.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "auf / über",
+   "3la",
+   ""
+  ],
+  [
+   "von / aus",
+   "men",
+   ""
+  ],
+  [
+   "zu / für",
+   "l",
+   ""
+  ],
+  [
+   "bei",
+   "3nd",
+   "3ndi = bei mir = ich habe"
+  ],
+  [
+   "oben drauf",
+   "fu9",
+   ""
+  ],
+  [
+   "unter",
+   "t7t",
+   ""
+  ],
+  [
+   "vor (Ort)",
+   "gddam",
+   ""
+  ],
+  [
+   "hinter",
+   "mura",
+   ""
+  ],
+  [
+   "neben",
+   "7da",
+   ""
+  ],
+  [
+   "zwischen",
+   "bin",
+   ""
+  ],
+  [
+   "vor (Zeit)",
+   "9bel",
+   ""
+  ],
+  [
+   "nach (Zeit)",
+   "men b3d",
+   ""
+  ],
+  [
+   "bis",
+   "7tta",
+   ""
+  ],
+  [
+   "drinnen",
+   "dakhel",
+   ""
+  ],
+  [
+   "draußen",
+   "kharej",
+   ""
+  ],
+  [
+   "ohne",
+   "bla",
+   "bla sokkar = ohne Zucker"
+  ],
+  [
+   "wie (vergleichend)",
+   "b7al",
+   ""
+  ],
+  [
+   "mit mir",
+   "m3aya",
+   ""
+  ],
+  [
+   "mit dir",
+   "m3ak",
+   ""
+  ]
+ ]
+}

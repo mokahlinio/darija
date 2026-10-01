@@ -1,0 +1,98 @@
+{
+ "id": "doda-kleidung",
+ "version": 1,
+ "title": "Wortschatz – Kleidung",
+ "notes": "Kleidung anziehen: lbes → ana kanlbes = ich ziehe an (siehe Verben: unterwegs & Alltag).\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "Kleidung",
+   "7wayej",
+   ""
+  ],
+  [
+   "Hose",
+   "serwal",
+   ""
+  ],
+  [
+   "Schuhe",
+   "sebbat",
+   ""
+  ],
+  [
+   "Socken",
+   "t9acher",
+   ""
+  ],
+  [
+   "Mantel",
+   "kebbot",
+   ""
+  ],
+  [
+   "Jacke",
+   "jakita",
+   ""
+  ],
+  [
+   "Rock",
+   "saya",
+   ""
+  ],
+  [
+   "Kleid",
+   "kswa",
+   ""
+  ],
+  [
+   "Schal",
+   "chal",
+   ""
+  ],
+  [
+   "Kappe / Mütze",
+   "kaskita",
+   ""
+  ],
+  [
+   "Gürtel",
+   "smta",
+   ""
+  ],
+  [
+   "Ring",
+   "khatem",
+   ""
+  ],
+  [
+   "Geldbeutel",
+   "bztam",
+   ""
+  ],
+  [
+   "Regenschirm",
+   "mdell",
+   ""
+  ],
+  [
+   "Tasche (an der Kleidung)",
+   "jib",
+   ""
+  ],
+  [
+   "Djellaba (langes Gewand mit Kapuze)",
+   "jellaba",
+   ""
+  ],
+  [
+   "Babuschen (Lederpantoffeln)",
+   "belgha",
+   ""
+  ],
+  [
+   "Kaftan",
+   "9eftan",
+   ""
+  ]
+ ]
+}

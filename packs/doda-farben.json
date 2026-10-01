@@ -1,0 +1,88 @@
+{
+ "id": "doda-farben",
+ "version": 1,
+ "title": "Wortschatz – Farben",
+ "notes": "Farben sind Adjektive und stehen hinter dem Nomen: tomobila 7amra = ein rotes Auto.\nWeibliche Form: 7mer → 7amra · khder → khedra · zre9 → zer9a · byed → bida · k7el → k7la · sfer → sefra\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "Farbe",
+   "lun / lawn",
+   ""
+  ],
+  [
+   "rot",
+   "7mer",
+   "f: 7amra"
+  ],
+  [
+   "grün",
+   "khder",
+   "f: khedra"
+  ],
+  [
+   "blau",
+   "zre9",
+   "f: zer9a"
+  ],
+  [
+   "weiß",
+   "byed",
+   "f: bida"
+  ],
+  [
+   "schwarz",
+   "k7el",
+   "f: k7la"
+  ],
+  [
+   "gelb",
+   "sfer",
+   "f: sefra"
+  ],
+  [
+   "orange",
+   "limuni",
+   "wörtlich: orangenfarben"
+  ],
+  [
+   "grau",
+   "gri",
+   ""
+  ],
+  [
+   "braun",
+   "9ahwi",
+   "wörtlich: kaffeefarben"
+  ],
+  [
+   "rosa",
+   "wardi",
+   "wörtlich: rosenfarben"
+  ],
+  [
+   "lila",
+   "banafsaji / 9u9i",
+   ""
+  ],
+  [
+   "golden",
+   "dhbi",
+   ""
+  ],
+  [
+   "dunkel (bei Farben)",
+   "mghlu9",
+   "zre9 mghlu9 = dunkelblau"
+  ],
+  [
+   "hell (bei Farben)",
+   "meftu7",
+   "zre9 meftu7 = hellblau"
+  ],
+  [
+   "ein rotes Auto",
+   "tomobila 7amra",
+   "tomobila ist weiblich → 7amra"
+  ]
+ ]
+}

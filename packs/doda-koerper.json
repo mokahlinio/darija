@@ -1,0 +1,128 @@
+{
+ "id": "doda-koerper",
+ "version": 1,
+ "title": "Wortschatz – Körper",
+ "notes": "„Mein …“ hängt direkt am Wort (Grammatik 5): ras → rasi = mein Kopf.\nSchmerzen: … kayderrni = … tut mir weh → rasi kayderrni = Mein Kopf tut weh.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "Kopf",
+   "ras",
+   ""
+  ],
+  [
+   "Gesicht",
+   "wjeh",
+   ""
+  ],
+  [
+   "Auge",
+   "3in",
+   "Plural: 3inin"
+  ],
+  [
+   "Ohr",
+   "wden",
+   ""
+  ],
+  [
+   "Nase",
+   "nif / mnakher",
+   ""
+  ],
+  [
+   "Mund",
+   "fomm",
+   ""
+  ],
+  [
+   "Zahn",
+   "senna",
+   "Plural: snan"
+  ],
+  [
+   "Zunge",
+   "lsan",
+   ""
+  ],
+  [
+   "Haare",
+   "ch3er",
+   ""
+  ],
+  [
+   "Bart",
+   "l7ya",
+   ""
+  ],
+  [
+   "Hals / Nacken",
+   "3n9 / 3ng",
+   ""
+  ],
+  [
+   "Schulter",
+   "ktef",
+   ""
+  ],
+  [
+   "Arm",
+   "dra3",
+   ""
+  ],
+  [
+   "Hand",
+   "yedd",
+   ""
+  ],
+  [
+   "Finger",
+   "sbe3",
+   ""
+  ],
+  [
+   "Bein / Fuß",
+   "rjel",
+   ""
+  ],
+  [
+   "Knie",
+   "rokba",
+   ""
+  ],
+  [
+   "Rücken",
+   "dhar",
+   ""
+  ],
+  [
+   "Bauch",
+   "kerch",
+   ""
+  ],
+  [
+   "Herz",
+   "9alb",
+   ""
+  ],
+  [
+   "Blut",
+   "dem",
+   ""
+  ],
+  [
+   "Körper",
+   "jasad",
+   ""
+  ],
+  [
+   "mein Kopf",
+   "rasi",
+   "ras + i"
+  ],
+  [
+   "Mein Kopf tut weh",
+   "rasi kayderrni",
+   "kayderrni = tut mir weh"
+  ]
+ ]
+}

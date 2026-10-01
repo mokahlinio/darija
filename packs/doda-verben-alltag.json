@@ -1,0 +1,93 @@
+{
+ "id": "doda-verben-alltag",
+ "version": 1,
+ "title": "Wortschatz – Verben: unterwegs & Alltag",
+ "notes": "Wie Basics 7: ich-Form im Präsens (ana kan- + Grundform), die Grundform (Imperativ) steht in der Notiz.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "ich gehe hinein",
+   "ana kandkhol",
+   "Geh rein! = dkhol"
+  ],
+  [
+   "ich gehe hinaus",
+   "ana kankhrej",
+   "Geh raus! = khrej"
+  ],
+  [
+   "ich komme zurück",
+   "ana kanrje3",
+   "Komm zurück! = rje3"
+  ],
+  [
+   "ich komme an",
+   "ana kanwsel",
+   ""
+  ],
+  [
+   "ich steige aus / gehe runter",
+   "ana kanzel",
+   "Steig aus! = nzel"
+  ],
+  [
+   "ich stehe auf",
+   "ana kannod",
+   "Steh auf! = nod"
+  ],
+  [
+   "ich reise",
+   "ana kansafer",
+   ""
+  ],
+  [
+   "ich gehe spazieren",
+   "ana kantmechcha",
+   ""
+  ],
+  [
+   "ich renne",
+   "ana kanjri",
+   "Renn! = jri"
+  ],
+  [
+   "ich wasche",
+   "ana kanghsel",
+   "Wasch! = ghsel"
+  ],
+  [
+   "ich ziehe an (Kleidung)",
+   "ana kanlbes",
+   "Zieh an! = lbes"
+  ],
+  [
+   "ich bringe",
+   "ana kanjib",
+   "Bring! = jib · jib liya = bring mir"
+  ],
+  [
+   "ich lege hin / stelle hin",
+   "ana kan7ett",
+   "Leg hin! = 7ett"
+  ],
+  [
+   "ich suche",
+   "ana kan9elleb",
+   "kan9elleb 3la … = ich suche …"
+  ],
+  [
+   "ich finde",
+   "ana kanl9a",
+   ""
+  ],
+  [
+   "ich bezahle",
+   "ana kankhelles",
+   "Bezahl! = khelles"
+  ],
+  [
+   "ich schaue zu / sehe fern",
+   "ana kantferrej",
+   ""
+  ]
+ ]
+}

@@ -131,5 +131,103 @@
   "title": "Grammatik 7 – Sätze mit Adjektiven",
   "source": "Grammatik · 27 Karten",
   "file": "yt-08.json"
+ },
+ {
+  "id": "doda-farben",
+  "version": 1,
+  "title": "Wortschatz – Farben",
+  "source": "Wortschatz · 16 Karten",
+  "file": "doda-farben.json"
+ },
+ {
+  "id": "doda-koerper",
+  "version": 1,
+  "title": "Wortschatz – Körper",
+  "source": "Wortschatz · 24 Karten",
+  "file": "doda-koerper.json"
+ },
+ {
+  "id": "doda-kleidung",
+  "version": 1,
+  "title": "Wortschatz – Kleidung",
+  "source": "Wortschatz · 18 Karten",
+  "file": "doda-kleidung.json"
+ },
+ {
+  "id": "doda-tiere",
+  "version": 1,
+  "title": "Wortschatz – Tiere",
+  "source": "Wortschatz · 22 Karten",
+  "file": "doda-tiere.json"
+ },
+ {
+  "id": "doda-gemuese",
+  "version": 1,
+  "title": "Wortschatz – Gemüse, Obst & Kräuter",
+  "source": "Wortschatz · 26 Karten",
+  "file": "doda-gemuese.json"
+ },
+ {
+  "id": "doda-essen",
+  "version": 1,
+  "title": "Wortschatz – Mahlzeiten & Geschmack",
+  "source": "Wortschatz · 21 Karten",
+  "file": "doda-essen.json"
+ },
+ {
+  "id": "doda-wetter",
+  "version": 1,
+  "title": "Wortschatz – Wetter & Natur",
+  "source": "Wortschatz · 24 Karten",
+  "file": "doda-wetter.json"
+ },
+ {
+  "id": "doda-berufe",
+  "version": 1,
+  "title": "Wortschatz – Berufe",
+  "source": "Wortschatz · 22 Karten",
+  "file": "doda-berufe.json"
+ },
+ {
+  "id": "doda-gesundheit",
+  "version": 1,
+  "title": "Wortschatz – Gesundheit",
+  "source": "Wortschatz · 16 Karten",
+  "file": "doda-gesundheit.json"
+ },
+ {
+  "id": "doda-praep",
+  "version": 1,
+  "title": "Wortschatz – Präpositionen",
+  "source": "Wortschatz · 19 Karten",
+  "file": "doda-praep.json"
+ },
+ {
+  "id": "doda-uhrzeit",
+  "version": 1,
+  "title": "Wortschatz – Uhrzeit, Kalender & Monate",
+  "source": "Wortschatz · 29 Karten",
+  "file": "doda-uhrzeit.json"
+ },
+ {
+  "id": "doda-woerter",
+  "version": 1,
+  "title": "Wortschatz – Kleine Wörter 2",
+  "source": "Wortschatz · 15 Karten",
+  "file": "doda-woerter.json"
+ },
+ {
+  "id": "doda-verben-alltag",
+  "version": 1,
+  "title": "Wortschatz – Verben: unterwegs & Alltag",
+  "source": "Wortschatz · 17 Karten",
+  "file": "doda-verben-alltag.json"
+ },
+ {
+  "id": "doda-verben-reden",
+  "version": 1,
+  "title": "Wortschatz – Verben: reden, denken, fühlen",
+  "source": "Wortschatz · 15 Karten",
+  "file": "doda-verben-reden.json"
  }
 ]

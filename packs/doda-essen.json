@@ -1,0 +1,113 @@
+{
+ "id": "doda-essen",
+ "version": 1,
+ "title": "Wortschatz – Mahlzeiten & Geschmack",
+ "notes": "Geschmack beschreiben wie jedes Adjektiv: atay 7lu = Der Tee ist süß.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "das Essen",
+   "makla",
+   ""
+  ],
+  [
+   "Frühstück",
+   "ftur",
+   ""
+  ],
+  [
+   "Mittagessen",
+   "ghda",
+   ""
+  ],
+  [
+   "Abendessen",
+   "3cha",
+   ""
+  ],
+  [
+   "Öl",
+   "zit",
+   ""
+  ],
+  [
+   "Butter",
+   "zebda",
+   ""
+  ],
+  [
+   "Käse",
+   "fromaj",
+   ""
+  ],
+  [
+   "Saft",
+   "3asir",
+   ""
+  ],
+  [
+   "Harira (Suppe)",
+   "7rira",
+   "Typische Suppe, besonders im Ramadan"
+  ],
+  [
+   "Salat",
+   "chlada",
+   ""
+  ],
+  [
+   "Tajine",
+   "tajin",
+   ""
+  ],
+  [
+   "Gewürze",
+   "3triya",
+   ""
+  ],
+  [
+   "Kreuzkümmel",
+   "kamun",
+   ""
+  ],
+  [
+   "Zimt",
+   "9erfa",
+   ""
+  ],
+  [
+   "süß",
+   "7lu",
+   ""
+  ],
+  [
+   "scharf",
+   "7arr",
+   ""
+  ],
+  [
+   "sauer",
+   "7amed",
+   "Gleiches Wort wie „Zitrone“"
+  ],
+  [
+   "bitter",
+   "merr",
+   ""
+  ],
+  [
+   "gegrillt",
+   "mechwi",
+   ""
+  ],
+  [
+   "frittiert",
+   "m9li",
+   ""
+  ],
+  [
+   "Guten Appetit! / Zum Wohl!",
+   "bssa7tek / bssa7a",
+   ""
+  ]
+ ]
+}

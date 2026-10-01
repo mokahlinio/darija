@@ -1,0 +1,128 @@
+{
+ "id": "doda-wetter",
+ "version": 1,
+ "title": "Wortschatz – Wetter & Natur",
+ "notes": "Übers Wetter reden mit kayn (es gibt): kayn sehd = es ist heiß, kayn lberd = es ist kalt, kayna chta = es regnet.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "Wetter",
+   "t9es",
+   ""
+  ],
+  [
+   "Sonne",
+   "chems / chemch",
+   ""
+  ],
+  [
+   "Mond",
+   "9mer / l9mer",
+   ""
+  ],
+  [
+   "Stern",
+   "nejma",
+   ""
+  ],
+  [
+   "Himmel",
+   "sma",
+   ""
+  ],
+  [
+   "Regen",
+   "chta",
+   ""
+  ],
+  [
+   "Schnee",
+   "telj",
+   ""
+  ],
+  [
+   "Wind",
+   "ri7",
+   ""
+  ],
+  [
+   "Hitze",
+   "sehd",
+   ""
+  ],
+  [
+   "Kälte",
+   "lberd",
+   ""
+  ],
+  [
+   "Es ist heiß (Wetter)",
+   "kayn sehd / kayn ssehd",
+   ""
+  ],
+  [
+   "Es ist kalt (Wetter)",
+   "kayn lberd",
+   ""
+  ],
+  [
+   "Es regnet",
+   "kayna chta",
+   ""
+  ],
+  [
+   "Winter",
+   "chtwa",
+   ""
+  ],
+  [
+   "Sommer",
+   "sif / ssif",
+   ""
+  ],
+  [
+   "Herbst",
+   "lkhrif",
+   ""
+  ],
+  [
+   "Frühling",
+   "rbi3 / rrbi3",
+   ""
+  ],
+  [
+   "Berg",
+   "jbel",
+   ""
+  ],
+  [
+   "Fluss",
+   "wad",
+   ""
+  ],
+  [
+   "Baum",
+   "chejra",
+   ""
+  ],
+  [
+   "Wald",
+   "ghaba",
+   ""
+  ],
+  [
+   "Wüste",
+   "s7ra",
+   ""
+  ],
+  [
+   "Sand",
+   "rmla",
+   ""
+  ],
+  [
+   "Stein",
+   "7jer",
+   ""
+  ]
+ ]
+}

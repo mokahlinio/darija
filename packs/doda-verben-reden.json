@@ -1,0 +1,83 @@
+{
+ "id": "doda-verben-reden",
+ "version": 1,
+ "title": "Wortschatz – Verben: reden, denken, fühlen",
+ "notes": "Wie Basics 7: ich-Form im Präsens (ana kan- + Grundform), die Grundform (Imperativ) steht in der Notiz.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "ich höre",
+   "ana kansme3",
+   "Hör zu! = sme3"
+  ],
+  [
+   "ich rufe / rufe an",
+   "ana kan3iyet",
+   "Ruf an! = 3iyet"
+  ],
+  [
+   "ich frage",
+   "ana kansowel",
+   ""
+  ],
+  [
+   "ich antworte",
+   "ana kanjaweb",
+   ""
+  ],
+  [
+   "ich helfe",
+   "ana kan3awen",
+   "3awenni = hilf mir"
+  ],
+  [
+   "ich fange an",
+   "ana kanbda",
+   ""
+  ],
+  [
+   "ich mache fertig / beende",
+   "ana kansali",
+   ""
+  ],
+  [
+   "ich vergesse",
+   "ana kansa",
+   "nsit = ich habe vergessen"
+  ],
+  [
+   "ich denke nach",
+   "ana kanfekker",
+   ""
+  ],
+  [
+   "ich erinnere mich",
+   "ana kantfekker",
+   ""
+  ],
+  [
+   "ich lache",
+   "ana kand7ek",
+   ""
+  ],
+  [
+   "ich weine",
+   "ana kanbki",
+   ""
+  ],
+  [
+   "ich singe",
+   "ana kanghenni",
+   ""
+  ],
+  [
+   "ich tanze",
+   "ana kanchte7",
+   ""
+  ],
+  [
+   "ich liebe (jemanden / etwas)",
+   "ana kan7ebb",
+   "Basics 7: kanbghi – beides geht"
+  ]
+ ]
+}

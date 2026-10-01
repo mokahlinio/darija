@@ -1,0 +1,83 @@
+{
+ "id": "doda-woerter",
+ "version": 1,
+ "title": "Wortschatz – Kleine Wörter 2",
+ "notes": "Ergänzt Basics 6 – Kleine Wörter.\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "oft / meistens",
+   "ghaliban",
+   ""
+  ],
+  [
+   "bald",
+   "9riban",
+   ""
+  ],
+  [
+   "früh",
+   "bekri",
+   ""
+  ],
+  [
+   "noch / immer noch",
+   "mazal",
+   "mazal ma … = noch nicht"
+  ],
+  [
+   "wieder / nochmal",
+   "3awtani",
+   ""
+  ],
+  [
+   "überhaupt nicht",
+   "ga3",
+   "ma bghitch ga3 = ich will überhaupt nicht"
+  ],
+  [
+   "zusammen",
+   "mjmu3in",
+   ""
+  ],
+  [
+   "genug",
+   "kafi",
+   ""
+  ],
+  [
+   "fast / ungefähr",
+   "t9riban",
+   ""
+  ],
+  [
+   "sofort",
+   "flblasa",
+   ""
+  ],
+  [
+   "leider",
+   "lil2asaf",
+   ""
+  ],
+  [
+   "besonders",
+   "khususan",
+   ""
+  ],
+  [
+   "normalerweise",
+   "3adatan",
+   ""
+  ],
+  [
+   "selten",
+   "nadiran",
+   ""
+  ],
+  [
+   "oben (im Haus)",
+   "lfu9",
+   ""
+  ]
+ ]
+}

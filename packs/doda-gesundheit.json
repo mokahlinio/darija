@@ -1,0 +1,88 @@
+{
+ "id": "doda-gesundheit",
+ "version": 1,
+ "title": "Wortschatz – Gesundheit",
+ "notes": "Schmerzen: rasi kayderrni = Mein Kopf tut weh (siehe Wortschatz – Körper).\n\nQuelle: Darija Open Dataset (DODa), github.com/darija-open-dataset/dataset – Lizenz CC BY-NC 4.0. Auswahl, deutsche Übersetzung und Schreibweise für diese App angepasst, einzelne Beispielsätze ergänzt.",
+ "cards": [
+  [
+   "Krankenhaus",
+   "sbitar",
+   ""
+  ],
+  [
+   "Apotheke",
+   "farmasyan / frmasyan",
+   ""
+  ],
+  [
+   "Medikament",
+   "dwa",
+   ""
+  ],
+  [
+   "Krankenwagen",
+   "labilans",
+   ""
+  ],
+  [
+   "gesund",
+   "s7i7",
+   ""
+  ],
+  [
+   "Gesundheit",
+   "sa77a",
+   ""
+  ],
+  [
+   "Fieber",
+   "skhana",
+   ""
+  ],
+  [
+   "Husten",
+   "k7ba",
+   ""
+  ],
+  [
+   "Grippe / Erkältung",
+   "rwa7",
+   ""
+  ],
+  [
+   "Kopfschmerzen",
+   "sda3",
+   ""
+  ],
+  [
+   "Schmerz",
+   "alam",
+   ""
+  ],
+  [
+   "Wunde",
+   "jer7a",
+   ""
+  ],
+  [
+   "Allergie",
+   "7asasiya",
+   ""
+  ],
+  [
+   "Ich bin krank",
+   "ana mrid",
+   "Als Frau: ana mrida"
+  ],
+  [
+   "Ich brauche einen Arzt",
+   "khassni tbib",
+   ""
+  ],
+  [
+   "Gute Besserung!",
+   "lah yechfik",
+   ""
+  ]
+ ]
+}
