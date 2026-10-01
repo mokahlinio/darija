@@ -192,3 +192,19 @@ input:focus, select:focus, textarea:focus { outline: 2px solid var(--primary); o
   max-width: calc(100% - 32px);
 }
 #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+/* ---------- Aussprache-Hilfe ---------- */
+.sounds summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; }
+.sounds summary::-webkit-details-marker { display: none; }
+.sounds summary::after { content: '▾'; color: var(--muted); transition: transform .2s; }
+.sounds:not([open]) summary::after { transform: rotate(-90deg); }
+.sounds[open] summary { margin-bottom: 10px; }
+.sound-list { display: flex; flex-direction: column; gap: 12px; margin-top: 12px; }
+.sound { display: grid; grid-template-columns: 52px 1fr; gap: 12px; align-items: start; }
+.sound .sym {
+  background: var(--primary-soft); color: var(--primary); border-radius: 12px;
+  font-weight: 800; font-size: 1.3rem; text-align: center; padding: 6px 0; line-height: 1.1;
+}
+.sound .sym span { display: block; font-size: .85rem; font-weight: 500; opacity: .8; }
+.sound p { font-size: .9rem; }
+.sound .ex { color: var(--muted); font-size: .85rem; margin-top: 2px; font-style: italic; }

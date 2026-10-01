@@ -223,6 +223,31 @@ function cardRow(c, showLesson) {
   </a>`;
 }
 
+/* ---------- Aussprache-Hilfe für die Startseite ---------- */
+const SOUNDS = [
+  ['3', 'ع', 'Gepresster Laut tief aus der Kehle – wie ein „a“, bei dem man den Hals zusammendrückt.', '3afak = bitte · 3ndi = ich habe'],
+  ['7', 'ح', 'Kräftig gehauchtes H aus dem Hals – wie beim Anhauchen einer Brille, nur rauer.', '7na = wir · lb7er = das Meer'],
+  ['9', 'ق', 'K ganz hinten im Rachen, dumpfer als das deutsche K.', '9rib = nah · l9ahwa = der Kaffee'],
+  ['2', 'ء', 'Kurzer Stopp in der Stimme – wie zwischen „be“ und „achten“.', 'l3a2ila = die Familie'],
+  ['kh', 'خ', 'Wie „ch“ in „Bach“.', 'lkhobz = das Brot · khoya = mein Bruder'],
+  ['gh', 'غ', 'Gerolltes Rachen-R wie im Französischen „Paris“.', 'ghedda = morgen · ghali = teuer'],
+  ['ch', 'ش', 'Wie deutsches „sch“ (manche schreiben auch sh).', 'chokran = danke · chwiya = ein bisschen'],
+];
+
+let soundsOpen = true;
+try { soundsOpen = localStorage.getItem('darija-sounds-open') !== '0'; } catch (e) { /* egal */ }
+
+function soundsCard() {
+  return `<details class="card sounds" data-sounds ${soundsOpen ? 'open' : ''}>
+    <summary><b>🔤 Aussprache: Zahlen in der Umschrift</b></summary>
+    <p class="muted small">Für Laute, die es im Deutschen nicht gibt, schreibt man in Marokko Zahlen, die dem arabischen Buchstaben ähnlich sehen – so auch in WhatsApp.</p>
+    <div class="sound-list">${SOUNDS.map(([sym, ar, how, ex]) => `<div class="sound">
+      <div class="sym">${esc(sym)}<span>${ar}</span></div>
+      <div><p>${esc(how)}</p><p class="ex">${esc(ex)}</p></div>
+    </div>`).join('')}</div>
+  </details>`;
+}
+
 const views = {
   /* ---------- Start ---------- */
   home() {
@@ -244,6 +269,7 @@ const views = {
         </div>
         ${packSection()}
         <a class="btn block" href="#/lessonEdit/new">Eigene Lektion anlegen</a>
+        ${soundsCard()}
       </div>`;
     }
 
@@ -269,6 +295,7 @@ const views = {
       </div>
       ${packSection(true)}
       ${recent ? `<div class="spread"><h2>Letzte Lektionen</h2><a class="muted small" href="#/lessons">Alle →</a></div><div class="list">${recent}</div>` : ''}
+      ${soundsCard()}
     </div>`;
   },
 
@@ -863,6 +890,13 @@ document.addEventListener('submit', e => {
     route();
   }
 });
+
+// Auf-/Zuklappen der Aussprache-Hilfe merken
+document.addEventListener('toggle', e => {
+  if (!e.target.matches?.('[data-sounds]')) return;
+  soundsOpen = e.target.open;
+  try { localStorage.setItem('darija-sounds-open', soundsOpen ? '1' : '0'); } catch (err) { /* egal */ }
+}, true);
 
 document.addEventListener('change', e => {
   if (e.target.matches('[data-import]') && e.target.files[0]) importData(e.target.files[0]);
