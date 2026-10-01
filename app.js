@@ -668,10 +668,13 @@ async function updatePacks(ids) {
       const l = packLesson(pack.id);
       // Karten aus dem Paket (ältere Importe haben noch kein "pack"-Feld, sind aber zeitgleich mit der Lektion entstanden)
       const old = state.cards.filter(c => c.lessonId === l.id && (c.pack === pack.id || (!c.pack && Math.abs(c.created - l.created) < 10000)));
-      const byDe = new Map(old.map(c => [c.de.trim().toLowerCase(), c]));
+      const key = t => t.trim().toLowerCase();
+      const byDe = new Map(old.map(c => [key(c.de), c]));
+      const byDa = new Map(old.map(c => [key(c.da), c]));
       const keep = new Set();
       pack.cards.forEach(([de, da, note]) => {
-        const c = byDe.get(de.trim().toLowerCase());
+        // erst über die deutsche Seite zuordnen, sonst über die Darija-Seite (falls nur der deutsche Text umformuliert wurde)
+        const c = [byDe.get(key(de)), byDa.get(key(da))].find(x => x && !keep.has(x));
         if (c) { Object.assign(c, { de, da, note, pack: pack.id }); keep.add(c); }
         else state.cards.push({ ...newCard(de, da, note, l.id), pack: pack.id });
       });

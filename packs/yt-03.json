@@ -1,6 +1,6 @@
 {
  "id": "yt-03",
- "version": 3,
+ "version": 4,
  "title": "Grammatik 3 – Vergangenheit",
  "notes": "NEUE VERBEN (Grundform)\ndir = machen · khdem = arbeiten · 3um = schwimmen · kteb = schreiben · khud = nehmen\n\nVERGANGENHEIT – zwei Formen\n\n1) Mit kan (war) + Präsensform\n   ana kunt · nta/nti kunti · howa kan · hiya kanet\n   7na kunna · ntuma kuntu · huma kanu\n   ana kunt kanakul = ich war am Essen / ich aß (früher)\n\n2) Ohne kan: Grundform + Endung (im Alltag häufiger)\n   ana -t · nta/nti -ti · howa – · hiya -at\n   7na -na · ntuma -tu · huma -u\n   ana chrebt, nta chrebti, howa chreb, hiya chrbat, 7na chrebna, ntuma chrebtu, huma chrbu\n\nAUSNAHME: Verben mit i/u in der Mitte (dir, sug, 3um …)\n   Bei ich/du/wir/ihr wird daraus ein e, bei er/sie/sie (Pl.) ein a:\n   dert, derti, dar, dart, derna, dertu, daru\n\nNeues Wort: ktab = Buch\n\nHinweis: Aus dem automatischen YouTube-Transkript rekonstruiert. ⚠︎ = im Video nachhören.",
  "cards": [
@@ -55,9 +55,9 @@
    ""
   ],
   [
-   "sie war",
+   "sie war (eine Frau)",
    "hiya kanet / hiya kant",
-   ""
+   "hiya = sie, eine Frau"
   ],
   [
    "wir waren",
@@ -70,9 +70,9 @@
    ""
   ],
   [
-   "sie waren (Plural)",
+   "sie waren (mehrere)",
    "huma kanu",
-   ""
+   "huma = sie, mehrere"
   ],
   [
    "ich war am Essen / ich aß (früher)",
@@ -105,9 +105,9 @@
    "keine Endung"
   ],
   [
-   "sie hat getrunken",
+   "sie hat getrunken (eine Frau)",
    "hiya chrbat",
-   "Endung -at"
+   "hiya = sie, eine Frau · Endung -at"
   ],
   [
    "wir haben getrunken",
@@ -120,9 +120,9 @@
    "Endung -tu"
   ],
   [
-   "sie haben getrunken (Plural)",
+   "sie haben getrunken (mehrere)",
    "huma chrbu",
-   "Endung -u"
+   "huma = sie, mehrere · Endung -u"
   ],
   [
    "ich habe gemacht",
@@ -145,9 +145,9 @@
    "Ausnahme: i → a"
   ],
   [
-   "sie hat gemacht",
+   "sie hat gemacht (eine Frau)",
    "hiya dart",
-   ""
+   "hiya = sie, eine Frau"
   ],
   [
    "wir haben gemacht",
@@ -160,9 +160,9 @@
    ""
   ],
   [
-   "sie haben gemacht (Plural)",
+   "sie haben gemacht (mehrere)",
    "huma daru",
-   ""
+   "huma = sie, mehrere"
   ],
   [
    "Ich habe Couscous gekocht",

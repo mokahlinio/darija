@@ -1,4 +1,4 @@
-import json, os
+import json, os, re
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "packs")
 REC = "\n\nHinweis: Aus dem automatischen YouTube-Transkript rekonstruiert. ⚠︎ = im Video nachhören."
 P = {}
@@ -307,7 +307,7 @@ P['yt-01'] = ("Grammatik 1 – Pronomen, Schreibweise & Präsens", "Grammatik", 
 ) + [
 ("Tee","atay","Marokkanischer Minztee"),
 ("Ich trinke Tee","ana kanchrob atay","Meist ohne „ana“: kanchrob atay"),
-], 3)
+], 4)
 
 P['yt-02'] = ("Grammatik 2 – Neue Verben & Futur (ghadi / gha)", "Grammatik",
 "NEUE VERBEN (Grundform)\nn3es = schlafen · chri = kaufen · hder = sprechen · chouf = sehen\nl3eb = spielen · tyyeb = kochen · sifet = schicken\n\n3 = ع → gepresster Laut tief aus der Kehle\nIn tyyeb steckt ein ط – ein dumpfes T, irgendwo zwischen D und T.\n\nFUTUR – zwei gleichwertige Formen\n1) ghadi + Präsens ohne ka-\n   kan- → n- · kat- → t- · kay- → y-\n   ghadi passt sich an: ghadi (m) · ghadya (f) · ghadyin (Plural)\n   ana ghadi nakul · nti ghadya takli · 7na ghadyin naklu\n2) gha- direkt vors Verb, bleibt immer gleich\n   ana ghanakul · nti ghatakli · 7na ghanaklu\n\nAls Frau sagt man selbst: ana ghadya nakul." + REC, [
@@ -332,7 +332,7 @@ P['yt-02'] = ("Grammatik 2 – Neue Verben & Futur (ghadi / gha)", "Grammatik",
 ("Ich werde Couscous kochen","ana ghadi ntyyeb kesksu / ana ghantyyeb kesksu",""),
 ("Wir werden Fußball spielen","7na ghadyin nl3bu lkora / 7na ghanl3bu lkora",""),
 ("Ihr werdet viel einkaufen","ntuma ghadyin tchriw bzzaf / ntuma ghatchriw bzzaf",""),
-], 3)
+], 4)
 
 P['yt-03'] = ("Grammatik 3 – Vergangenheit", "Grammatik",
 "NEUE VERBEN (Grundform)\ndir = machen · khdem = arbeiten · 3um = schwimmen · kteb = schreiben · khud = nehmen\n\nVERGANGENHEIT – zwei Formen\n\n1) Mit kan (war) + Präsensform\n   ana kunt · nta/nti kunti · howa kan · hiya kanet\n   7na kunna · ntuma kuntu · huma kanu\n   ana kunt kanakul = ich war am Essen / ich aß (früher)\n\n2) Ohne kan: Grundform + Endung (im Alltag häufiger)\n   ana -t · nta/nti -ti · howa – · hiya -at\n   7na -na · ntuma -tu · huma -u\n   ana chrebt, nta chrebti, howa chreb, hiya chrbat, 7na chrebna, ntuma chrebtu, huma chrbu\n\nAUSNAHME: Verben mit i/u in der Mitte (dir, sug, 3um …)\n   Bei ich/du/wir/ihr wird daraus ein e, bei er/sie/sie (Pl.) ein a:\n   dert, derti, dar, dart, derna, dertu, daru\n\nNeues Wort: ktab = Buch" + REC, [
@@ -361,7 +361,7 @@ P['yt-03'] = ("Grammatik 3 – Vergangenheit", "Grammatik",
 ("Wir haben Fußball gespielt","7na l3bna lkora / 7na kunna kanl3bu lkora",""),
 ("Ihr habt viel eingekauft","ntuma chritu bzzaf / ntuma kuntu katchriw bzzaf",""),
 ("Ich habe ein Buch genommen","ana khdit ktab / ana kunt kanakhod ktab","⚠︎ im Video nachhören"),
-], 3)
+], 4)
 
 P['yt-04'] = ("Grammatik 4 – Nomen: Geschlecht, Plural & Artikel", "Grammatik",
 "GESCHLECHT\nWörter auf -a sind (fast immer) feminin: lamba, kelma, tabla, kora, kuzina.\nAlles andere ist maskulin: kelb, bit, kursi, weld, rajel.\nAchtung: tabla (Tisch) ist feminin – anders als im Deutschen.\n\nWEIBLICHE FORM: +a\nkelb → kelba · ustad → ustada · tbib → tbiba\nGilt auch für Adjektive: rajel zwin · mra zwina\nDas Adjektiv steht hinter dem Nomen.\n\nPLURAL\nFeminin: +t → lambat, kelmat, tablat, korat, tomobilat\nMaskulin: keine Regel, immer mitlernen!\nkelb → klab · bit → byut · kursi → krasa · weld → wlad · rajel → rjal\n\nARTIKEL\nder/die/das = l- vorne dran, für alles gleich: lkuzina, lbit, lktab\nVor t, d, s, z, r, n, ch u. a. verschmilzt das l mit dem Anfang: ttabla, rrajel, nnas, ddar\nein/eine = wa7ed + l-: wa7ed lkuzina (wörtlich „eine die Küche“)\n\nDIESER / DIESE\nVor einem Nomen: had (m und f gleich) → had lktab, had rrajel, had lmra\nAllein stehend: hada (m) · hadi (f) · hadu (Plural)" + REC, [
@@ -543,7 +543,22 @@ P['yt-08'] = ("Grammatik 7 – Sätze mit Adjektiven", "Grammatik",
 ("Die Autos sind klein","ttomobilat sghar / ttomobilat sghirat",""),
 ])
 
+
+# „sie“ ist im Deutschen doppeldeutig: Karten mit hiya/huma eindeutig beschriften
+def clarify(de, da, note):
+    if re.match(r'^hiya\b', da):
+        de = de.replace(' (Singular)', '')
+        if '(eine Frau)' not in de: de += ' (eine Frau)'
+        hint = 'hiya = sie, eine Frau'
+    elif re.match(r'^(huma|homa)\b', da):
+        de = de.replace('(Plural)', '(mehrere)')
+        hint = 'huma = sie, mehrere'
+    else:
+        return de, da, note
+    return de, da, f"{hint} · {note}" if note else hint
+
 for pid, (title, src, notes, cards, *ver) in P.items():
+    cards = [clarify(*c) for c in cards]
     json.dump({"id": pid, "version": ver[0] if ver else 1, "title": title, "notes": notes, "cards": [list(c) for c in cards]},
               open(f"{OUT}/{pid}.json", "w"), ensure_ascii=False, indent=1)
 

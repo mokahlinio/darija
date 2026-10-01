@@ -1,6 +1,6 @@
 {
  "id": "yt-01",
- "version": 3,
+ "version": 4,
  "title": "Grammatik 1 – Pronomen, Schreibweise & Präsens",
  "notes": "PERSONALPRONOMEN\nana = ich\nnta = du (m) · nti = du (f)\nhowa = er · hiya = sie\n7na = wir\nntuma = ihr\nhuma = sie (Plural)\n\nZAHLEN ALS BUCHSTABEN (Chat-Schreibweise)\n7 = ح → hartes H aus dem Hals (7na)\n9 = ق → tiefes K hinten im Rachen\nkh = خ → wie „ch“ in „Bach“\nj → wie in „Journal“, nicht wie in „ja“\n\nPRÄSENS = Präfix + Grundform\nDie Grundform ist der Imperativ (kul = iss!, chrob = trink!, sug = fahr!).\nana → kan-          kansug\nnta / hiya → kat-   katsug\nnti → kat- … -i     katsugi\nhowa → kay-         kaysug\n7na → kan- … -u     kansugu\nntuma → kat- … -u   katsugu\nhuma → kay- … -u    kaysugu\nBei „essen“ kommt ein a dazu: kan-a-kul.\n\nTIPP\nDas Subjekt fällt meist weg: „kanchrob atay“ reicht für „Ich trinke Tee“ – die Endung verrät, wer gemeint ist.\n\nHinweis: Aus dem automatischen YouTube-Transkript rekonstruiert. Mit ⚠︎ markierte Karten im Video nachhören.",
  "cards": [
@@ -25,9 +25,9 @@
    ""
   ],
   [
-   "sie (Singular)",
+   "sie (eine Frau)",
    "hiya",
-   ""
+   "hiya = sie, eine Frau"
   ],
   [
    "wir",
@@ -40,9 +40,9 @@
    ""
   ],
   [
-   "sie (Plural)",
+   "sie (mehrere)",
    "huma / homa",
-   ""
+   "huma = sie, mehrere"
   ],
   [
    "Hemd",
@@ -95,9 +95,9 @@
    "howa → kay-"
   ],
   [
-   "sie isst",
+   "sie isst (eine Frau)",
    "hiya katakul",
-   "hiya → kat- (wie nta)"
+   "hiya = sie, eine Frau · hiya → kat- (wie nta)"
   ],
   [
    "wir essen",
@@ -110,9 +110,9 @@
    "ntuma → kat- … -u"
   ],
   [
-   "sie essen (Plural)",
+   "sie essen (mehrere)",
    "huma kayaklu",
-   "huma → kay- … -u"
+   "huma = sie, mehrere · huma → kay- … -u"
   ],
   [
    "ich trinke",
@@ -135,9 +135,9 @@
    ""
   ],
   [
-   "sie trinkt",
+   "sie trinkt (eine Frau)",
    "hiya katchrob",
-   ""
+   "hiya = sie, eine Frau"
   ],
   [
    "wir trinken",
@@ -150,9 +150,9 @@
    ""
   ],
   [
-   "sie trinken (Plural)",
+   "sie trinken (mehrere)",
    "huma kaychrbu",
-   ""
+   "huma = sie, mehrere"
   ],
   [
    "ich fahre",
@@ -175,9 +175,9 @@
    ""
   ],
   [
-   "sie fährt",
+   "sie fährt (eine Frau)",
    "hiya katsug",
-   ""
+   "hiya = sie, eine Frau"
   ],
   [
    "wir fahren",
@@ -190,9 +190,9 @@
    ""
   ],
   [
-   "sie fahren (Plural)",
+   "sie fahren (mehrere)",
    "huma kaysugu",
-   ""
+   "huma = sie, mehrere"
   ],
   [
    "Tee",

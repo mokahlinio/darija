@@ -15,7 +15,7 @@
  },
  {
   "id": "yt-01",
-  "version": 3,
+  "version": 4,
   "title": "Grammatik 1 – Pronomen, Schreibweise & Präsens",
   "source": "Grammatik · 40 Karten",
   "file": "yt-01.json"
@@ -36,7 +36,7 @@
  },
  {
   "id": "yt-02",
-  "version": 3,
+  "version": 4,
   "title": "Grammatik 2 – Neue Verben & Futur (ghadi / gha)",
   "source": "Grammatik · 24 Karten",
   "file": "yt-02.json"
@@ -57,7 +57,7 @@
  },
  {
   "id": "yt-03",
-  "version": 3,
+  "version": 4,
   "title": "Grammatik 3 – Vergangenheit",
   "source": "Grammatik · 36 Karten",
   "file": "yt-03.json"
