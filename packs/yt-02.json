@@ -1,0 +1,128 @@
+{
+ "id": "yt-02",
+ "version": 3,
+ "title": "Grammatik 2 – Neue Verben & Futur (ghadi / gha)",
+ "notes": "NEUE VERBEN (Grundform)\nn3es = schlafen · chri = kaufen · hder = sprechen · chouf = sehen\nl3eb = spielen · tyyeb = kochen · sifet = schicken\n\n3 = ع → gepresster Laut tief aus der Kehle\nIn tyyeb steckt ein ط – ein dumpfes T, irgendwo zwischen D und T.\n\nFUTUR – zwei gleichwertige Formen\n1) ghadi + Präsens ohne ka-\n   kan- → n- · kat- → t- · kay- → y-\n   ghadi passt sich an: ghadi (m) · ghadya (f) · ghadyin (Plural)\n   ana ghadi nakul · nti ghadya takli · 7na ghadyin naklu\n2) gha- direkt vors Verb, bleibt immer gleich\n   ana ghanakul · nti ghatakli · 7na ghanaklu\n\nAls Frau sagt man selbst: ana ghadya nakul.\n\nHinweis: Aus dem automatischen YouTube-Transkript rekonstruiert. ⚠︎ = im Video nachhören.",
+ "cards": [
+  [
+   "Schlaf! (Grundform: schlafen)",
+   "n3es",
+   "3 = ع, gepresster Kehllaut"
+  ],
+  [
+   "Kauf! (Grundform: kaufen)",
+   "chri",
+   ""
+  ],
+  [
+   "Sprich! (Grundform: sprechen)",
+   "hder",
+   ""
+  ],
+  [
+   "Schau! (Grundform: sehen)",
+   "chouf / chuf",
+   ""
+  ],
+  [
+   "Spiel! (Grundform: spielen)",
+   "l3eb",
+   ""
+  ],
+  [
+   "Koch! (Grundform: kochen)",
+   "tyyeb / tiyeb",
+   "Das t ist ein ط – dumpf, zwischen D und T"
+  ],
+  [
+   "Schick! (Grundform: schicken)",
+   "sifet",
+   "⚠︎ im Video nachhören"
+  ],
+  [
+   "Couscous",
+   "kesksu / kseksu",
+   ""
+  ],
+  [
+   "Fußball",
+   "lkora",
+   ""
+  ],
+  [
+   "viel",
+   "bzzaf",
+   ""
+  ],
+  [
+   "Ich koche Couscous",
+   "ana kantyyeb kesksu",
+   ""
+  ],
+  [
+   "Wir spielen Fußball",
+   "7na kanl3bu lkora",
+   ""
+  ],
+  [
+   "Ihr kauft viel ein",
+   "ntuma katchriw bzzaf",
+   "Verben auf -i bekommen im Plural -w statt -u"
+  ],
+  [
+   "ich werde essen",
+   "ana ghadi nakul / ana ghanakul",
+   "Als Frau: ana ghadya nakul"
+  ],
+  [
+   "du wirst essen (m)",
+   "nta ghadi takul / nta ghatakul",
+   ""
+  ],
+  [
+   "du wirst essen (f)",
+   "nti ghadya takli / nti ghatakli",
+   ""
+  ],
+  [
+   "er wird essen",
+   "howa ghadi yakul / howa ghayakul",
+   ""
+  ],
+  [
+   "sie wird essen",
+   "hiya ghadya takul / hiya ghatakul",
+   ""
+  ],
+  [
+   "wir werden essen",
+   "7na ghadyin naklu / 7na ghanaklu",
+   ""
+  ],
+  [
+   "ihr werdet essen",
+   "ntuma ghadyin taklu / ntuma ghataklu",
+   ""
+  ],
+  [
+   "sie werden essen (Plural)",
+   "huma ghadyin yaklu / huma ghayaklu",
+   ""
+  ],
+  [
+   "Ich werde Couscous kochen",
+   "ana ghadi ntyyeb kesksu / ana ghantyyeb kesksu",
+   ""
+  ],
+  [
+   "Wir werden Fußball spielen",
+   "7na ghadyin nl3bu lkora / 7na ghanl3bu lkora",
+   ""
+  ],
+  [
+   "Ihr werdet viel einkaufen",
+   "ntuma ghadyin tchriw bzzaf / ntuma ghatchriw bzzaf",
+   ""
+  ]
+ ]
+}

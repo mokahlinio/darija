@@ -1,0 +1,133 @@
+{
+ "id": "basics-01",
+ "version": 1,
+ "title": "Basics 1 – Begrüßung & Höflichkeit",
+ "notes": "Viele Begrüßungen haben eine feste Antwort:\nsbah lkhir → sbah nnur\nmsa lkhir → msa nnur\nsalamu 3likum → wa 3likum salam\n\n3afak (bitte) hängt man einfach hinten an: lma 3afak = Wasser, bitte.\n\nSCHREIBWEISE\n3 = ع → gepresster Laut aus der Kehle\n7 = ح → hartes H aus dem Hals\n9 = ق → tiefes K hinten im Rachen\nkh = wie „ch“ in „Bach“\ngh = Rachen-R wie im Französischen\nch = sch",
+ "cards": [
+  [
+   "Hallo",
+   "salam",
+   ""
+  ],
+  [
+   "Friede sei mit dir (Begrüßung)",
+   "salamu 3likum / salam 3likum",
+   "Antwort: wa 3likum salam"
+  ],
+  [
+   "Guten Morgen",
+   "sbah lkhir / sba7 lkhir",
+   "Antwort: sbah nnur"
+  ],
+  [
+   "Guten Abend",
+   "msa lkhir",
+   "Antwort: msa nnur"
+  ],
+  [
+   "Wie geht's?",
+   "labas?",
+   "Antwort: labas = mir geht's gut"
+  ],
+  [
+   "Wie geht's dir? (zu einem Mann)",
+   "kif dayr? / kidayr?",
+   ""
+  ],
+  [
+   "Wie geht's dir? (zu einer Frau)",
+   "kif dayra? / kidayra?",
+   ""
+  ],
+  [
+   "Gut, Gott sei Dank",
+   "bikhir, lhamdulillah",
+   ""
+  ],
+  [
+   "Alles gut?",
+   "kolchi mzyan?",
+   ""
+  ],
+  [
+   "Bitte (wenn man um etwas bittet)",
+   "3afak / afak",
+   "Hinten anhängen: lma 3afak = Wasser, bitte"
+  ],
+  [
+   "Danke",
+   "chokran / shukran",
+   ""
+  ],
+  [
+   "Vielen Dank",
+   "chokran bzzaf / shukran bzzaf",
+   ""
+  ],
+  [
+   "Gern geschehen",
+   "bla jmil / la3fu",
+   ""
+  ],
+  [
+   "Entschuldigung / Verzeihung",
+   "smeh liya / smah li",
+   ""
+  ],
+  [
+   "Kein Problem",
+   "machi mochkil",
+   ""
+  ],
+  [
+   "Willkommen",
+   "mer7ba / marhba",
+   ""
+  ],
+  [
+   "Tschüss",
+   "bslama",
+   ""
+  ],
+  [
+   "Bis später",
+   "nchofek men b3d",
+   "wörtlich: ich sehe dich später"
+  ],
+  [
+   "Ja",
+   "iyeh / ah",
+   ""
+  ],
+  [
+   "Nein",
+   "la",
+   ""
+  ],
+  [
+   "Okay / einverstanden",
+   "wakha",
+   "Hört man ständig"
+  ],
+  [
+   "Genug / fertig / passt",
+   "safi",
+   ""
+  ],
+  [
+   "So Gott will",
+   "inchallah",
+   "Auch für „hoffentlich“ oder „mal sehen“"
+  ],
+  [
+   "Gott sei Dank",
+   "lhamdulillah",
+   ""
+  ],
+  [
+   "Wirklich? / Echt?",
+   "bse77? / bsa7?",
+   ""
+  ]
+ ]
+}

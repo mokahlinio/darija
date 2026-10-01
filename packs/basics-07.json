@@ -1,0 +1,108 @@
+{
+ "id": "basics-07",
+ "version": 2,
+ "title": "Basics 7 – Wichtige Verben",
+ "notes": "Alle Karten in der ich-Form im Präsens: ana + kan- + Grundform (wie in Video 1). Das „ana“ kann man auch weglassen. In der Notiz steht die Grundform bzw. der Imperativ.\n\nAusnahme bghit (ich will): sieht aus wie Vergangenheit, bedeutet aber Gegenwart.\nkhassni + Verb = ich muss: khassni nmchi = ich muss gehen.",
+ "cards": [
+  [
+   "ich gehe",
+   "ana kanmchi",
+   "Geh! = sir"
+  ],
+  [
+   "ich komme",
+   "ana kanji",
+   "Komm! = aji"
+  ],
+  [
+   "ich will / ich möchte",
+   "ana bghit",
+   "Vergangenheitsform mit Gegenwartsbedeutung"
+  ],
+  [
+   "ich will nicht",
+   "ana ma bghitch",
+   ""
+  ],
+  [
+   "ich muss / ich brauche",
+   "khassni",
+   "khassni nmchi = ich muss gehen"
+  ],
+  [
+   "ich kann",
+   "ana kan9der / ana n9der",
+   ""
+  ],
+  [
+   "ich weiß",
+   "ana kan3ref",
+   ""
+  ],
+  [
+   "ich mache",
+   "ana kandir",
+   "Mach! = dir"
+  ],
+  [
+   "ich arbeite",
+   "ana kankhdem",
+   "Arbeite! = khdem"
+  ],
+  [
+   "ich wohne",
+   "ana kanskon",
+   "Wo wohnst du? = fin katskon?"
+  ],
+  [
+   "ich lerne",
+   "ana kant3llem",
+   ""
+  ],
+  [
+   "ich gebe",
+   "ana kan3ti",
+   "Gib mir! = 3tini"
+  ],
+  [
+   "ich nehme",
+   "ana kanakhod / ana kankhod",
+   "Nimm! = khod"
+  ],
+  [
+   "ich warte",
+   "ana kantsenna",
+   "Warte! = tsenna"
+  ],
+  [
+   "ich mag / ich liebe",
+   "ana kanbghi",
+   "kanbghik = ich liebe dich"
+  ],
+  [
+   "ich schreibe",
+   "ana kanekteb / ana kanktb",
+   "Schreib! = kteb"
+  ],
+  [
+   "ich lese",
+   "ana kan9ra",
+   "Lies! = 9ra"
+  ],
+  [
+   "ich setze mich / ich bleibe",
+   "ana kangles",
+   "Setz dich! = gles"
+  ],
+  [
+   "ich öffne",
+   "ana kan7ell",
+   "Mach auf! = 7ell"
+  ],
+  [
+   "ich schließe",
+   "ana kansedd",
+   "Mach zu! = sedd"
+  ]
+ ]
+}

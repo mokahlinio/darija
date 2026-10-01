@@ -1,0 +1,208 @@
+{
+ "id": "yt-01",
+ "version": 3,
+ "title": "Grammatik 1 – Pronomen, Schreibweise & Präsens",
+ "notes": "PERSONALPRONOMEN\nana = ich\nnta = du (m) · nti = du (f)\nhowa = er · hiya = sie\n7na = wir\nntuma = ihr\nhuma = sie (Plural)\n\nZAHLEN ALS BUCHSTABEN (Chat-Schreibweise)\n7 = ح → hartes H aus dem Hals (7na)\n9 = ق → tiefes K hinten im Rachen\nkh = خ → wie „ch“ in „Bach“\nj → wie in „Journal“, nicht wie in „ja“\n\nPRÄSENS = Präfix + Grundform\nDie Grundform ist der Imperativ (kul = iss!, chrob = trink!, sug = fahr!).\nana → kan-          kansug\nnta / hiya → kat-   katsug\nnti → kat- … -i     katsugi\nhowa → kay-         kaysug\n7na → kan- … -u     kansugu\nntuma → kat- … -u   katsugu\nhuma → kay- … -u    kaysugu\nBei „essen“ kommt ein a dazu: kan-a-kul.\n\nTIPP\nDas Subjekt fällt meist weg: „kanchrob atay“ reicht für „Ich trinke Tee“ – die Endung verrät, wer gemeint ist.\n\nHinweis: Aus dem automatischen YouTube-Transkript rekonstruiert. Mit ⚠︎ markierte Karten im Video nachhören.",
+ "cards": [
+  [
+   "ich",
+   "ana",
+   ""
+  ],
+  [
+   "du (zu einem Mann)",
+   "nta",
+   ""
+  ],
+  [
+   "du (zu einer Frau)",
+   "nti",
+   ""
+  ],
+  [
+   "er",
+   "howa / huwa",
+   ""
+  ],
+  [
+   "sie (Singular)",
+   "hiya",
+   ""
+  ],
+  [
+   "wir",
+   "7na",
+   "7 = ح, hartes H aus dem Hals"
+  ],
+  [
+   "ihr",
+   "ntuma / ntoma",
+   ""
+  ],
+  [
+   "sie (Plural)",
+   "huma / homa",
+   ""
+  ],
+  [
+   "Hemd",
+   "9amija",
+   "9 = ق, tiefes K hinten im Rachen · ⚠︎ Beispiel unsicher"
+  ],
+  [
+   "hässlich",
+   "khayb / khayeb",
+   "kh = wie „ch“ in „Bach“"
+  ],
+  [
+   "Kamel",
+   "jmel",
+   "j wie in „Journal“ · ⚠︎ Beispiel unsicher"
+  ],
+  [
+   "Iss! (Grundform: essen)",
+   "kul",
+   "Wird auch gesagt, wenn man jemandem Essen anbietet"
+  ],
+  [
+   "Trink! (Grundform: trinken)",
+   "chrob",
+   ""
+  ],
+  [
+   "Fahr! (Grundform: fahren)",
+   "sug / sog",
+   ""
+  ],
+  [
+   "ich esse",
+   "ana kanakul",
+   "ana → kan-"
+  ],
+  [
+   "du isst (m)",
+   "nta katakul",
+   "nta → kat-"
+  ],
+  [
+   "du isst (f)",
+   "nti katakli",
+   "nti → kat- … -i"
+  ],
+  [
+   "er isst",
+   "howa kayakul",
+   "howa → kay-"
+  ],
+  [
+   "sie isst",
+   "hiya katakul",
+   "hiya → kat- (wie nta)"
+  ],
+  [
+   "wir essen",
+   "7na kanaklu",
+   "7na → kan- … -u"
+  ],
+  [
+   "ihr esst",
+   "ntuma kataklu",
+   "ntuma → kat- … -u"
+  ],
+  [
+   "sie essen (Plural)",
+   "huma kayaklu",
+   "huma → kay- … -u"
+  ],
+  [
+   "ich trinke",
+   "ana kanchrob",
+   ""
+  ],
+  [
+   "du trinkst (m)",
+   "nta katchrob",
+   ""
+  ],
+  [
+   "du trinkst (f)",
+   "nti katchrbi",
+   ""
+  ],
+  [
+   "er trinkt",
+   "howa kaychrob",
+   ""
+  ],
+  [
+   "sie trinkt",
+   "hiya katchrob",
+   ""
+  ],
+  [
+   "wir trinken",
+   "7na kanchrbu",
+   ""
+  ],
+  [
+   "ihr trinkt",
+   "ntuma katchrbu",
+   ""
+  ],
+  [
+   "sie trinken (Plural)",
+   "huma kaychrbu",
+   ""
+  ],
+  [
+   "ich fahre",
+   "ana kansug",
+   ""
+  ],
+  [
+   "du fährst (m)",
+   "nta katsug",
+   ""
+  ],
+  [
+   "du fährst (f)",
+   "nti katsugi",
+   ""
+  ],
+  [
+   "er fährt",
+   "howa kaysug",
+   ""
+  ],
+  [
+   "sie fährt",
+   "hiya katsug",
+   ""
+  ],
+  [
+   "wir fahren",
+   "7na kansugu",
+   ""
+  ],
+  [
+   "ihr fahrt",
+   "ntuma katsugu",
+   ""
+  ],
+  [
+   "sie fahren (Plural)",
+   "huma kaysugu",
+   ""
+  ],
+  [
+   "Tee",
+   "atay",
+   "Marokkanischer Minztee"
+  ],
+  [
+   "Ich trinke Tee",
+   "ana kanchrob atay",
+   "Meist ohne „ana“: kanchrob atay"
+  ]
+ ]
+}

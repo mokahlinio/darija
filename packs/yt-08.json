@@ -1,0 +1,143 @@
+{
+ "id": "yt-08",
+ "version": 1,
+ "title": "Grammatik 7 – Sätze mit Adjektiven",
+ "notes": "„IST / SIND“ FÄLLT WEG\nNomen mit Artikel + Adjektiv ohne Artikel = ganzer Satz\nssak jdid = Die Tasche ist neu\nNomen mit Artikel + Adjektiv mit Artikel = „die neue Tasche“\nssak ljdid = die neue Tasche\n\nARTIKEL-VERDOPPLUNG\nBeginnt ein Wort mit d, n, r, s, t, z (u. a.), wird statt l der erste Buchstabe verdoppelt:\nssak · ddar · rrjal · ttomobilat\n\nADJEKTIV ANPASSEN – Beispiel fer7an (fröhlich)\nmännlich fer7an · weiblich fer7ana\nPlural männlich fer7anin · Plural weiblich fer7anat\nViele Adjektive haben zusätzlich einen eigenen Plural – beide Formen gehen:\nsghir → sghar / sghirin · kbir → kbar / kbirin · jdid → jdad / jdidin\n\nAUSNAHME: i als 3. Buchstabe wird zu y\nghali → ghalya · ghalyin · ghalyat\nzwin bleibt trotzdem regelmäßig: zwina · zwinin · zwinat\n\nACHTUNG\nkbir heißt groß UND alt (bei Menschen): rrjal kbar = Die Männer sind alt\ndar (Haus) ist weiblich, obwohl es nicht auf -a endet: ddar 9riba\n\nHinweis: Aus dem automatischen YouTube-Transkript rekonstruiert. ⚠︎ = im Video nachhören.",
+ "cards": [
+  [
+   "Tasche",
+   "sak",
+   "maskulin"
+  ],
+  [
+   "Die Tasche ist neu",
+   "ssak jdid",
+   "Adjektiv ohne Artikel = Satz mit „ist“"
+  ],
+  [
+   "die neue Tasche",
+   "ssak ljdid / ssak jjdid",
+   "Adjektiv mit Artikel"
+  ],
+  [
+   "Die Stadt ist nah",
+   "lmdina 9riba",
+   "lmdina ist weiblich → 9riba"
+  ],
+  [
+   "Die Zimmer sind klein",
+   "lbyut sghar / lbyut sghirin",
+   "Beide Pluralformen gehen"
+  ],
+  [
+   "die kleinen Zimmer",
+   "lbyut ssghar / lbyut ssghirin",
+   "Adjektiv mit Artikel → s verdoppelt"
+  ],
+  [
+   "Die Autos sind groß",
+   "ttomobilat kbar / ttomobilat kbirat",
+   "⚠︎ im Video nachhören"
+  ],
+  [
+   "fröhlich (m)",
+   "fer7an",
+   ""
+  ],
+  [
+   "fröhlich (f)",
+   "fer7ana",
+   "+a"
+  ],
+  [
+   "fröhlich (Plural m)",
+   "fer7anin",
+   "+in"
+  ],
+  [
+   "fröhlich (Plural f)",
+   "fer7anat",
+   "+at"
+  ],
+  [
+   "teuer (m)",
+   "ghali",
+   ""
+  ],
+  [
+   "teuer (f)",
+   "ghalya",
+   "Ausnahme: i wird zu y"
+  ],
+  [
+   "teuer (Plural m)",
+   "ghalyin",
+   ""
+  ],
+  [
+   "teuer (Plural f)",
+   "ghalyat",
+   ""
+  ],
+  [
+   "schön (Plural m)",
+   "zwinin",
+   "zwin bleibt regelmäßig"
+  ],
+  [
+   "schön (Plural f)",
+   "zwinat",
+   ""
+  ],
+  [
+   "klein (Plural)",
+   "sghar / sghirin",
+   ""
+  ],
+  [
+   "groß / alt (Plural)",
+   "kbar / kbirin",
+   "kbir = groß, bei Menschen auch alt"
+  ],
+  [
+   "neu (Plural)",
+   "jdad / jdidin",
+   ""
+  ],
+  [
+   "billig (Plural)",
+   "rkhas / rkhisin",
+   "⚠︎ im Video nachhören"
+  ],
+  [
+   "schwer (Gewicht)",
+   "t9il",
+   "f: t9ila"
+  ],
+  [
+   "traurig",
+   "7zin / m9elle9",
+   "⚠︎ im Video nachhören"
+  ],
+  [
+   "Das Buch ist neu",
+   "lktab jdid",
+   ""
+  ],
+  [
+   "Das Haus ist nah",
+   "ddar 9riba",
+   "dar ist weiblich, obwohl ohne -a"
+  ],
+  [
+   "Die Männer sind alt",
+   "rrjal kbar / rrjal kbirin",
+   "kbir = groß und alt"
+  ],
+  [
+   "Die Autos sind klein",
+   "ttomobilat sghar / ttomobilat sghirat",
+   ""
+  ]
+ ]
+}

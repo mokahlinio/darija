@@ -1,0 +1,135 @@
+[
+ {
+  "id": "basics-01",
+  "version": 1,
+  "title": "Basics 1 – Begrüßung & Höflichkeit",
+  "source": "Basics · 25 Karten",
+  "file": "basics-01.json"
+ },
+ {
+  "id": "basics-02",
+  "version": 2,
+  "title": "Basics 2 – Kennenlernen & Verständigung",
+  "source": "Basics · 20 Karten",
+  "file": "basics-02.json"
+ },
+ {
+  "id": "yt-01",
+  "version": 3,
+  "title": "Grammatik 1 – Pronomen, Schreibweise & Präsens",
+  "source": "Grammatik · 40 Karten",
+  "file": "yt-01.json"
+ },
+ {
+  "id": "basics-03",
+  "version": 1,
+  "title": "Basics 3 – Fragewörter",
+  "source": "Basics · 16 Karten",
+  "file": "basics-03.json"
+ },
+ {
+  "id": "basics-04",
+  "version": 1,
+  "title": "Basics 4 – Zahlen",
+  "source": "Basics · 26 Karten",
+  "file": "basics-04.json"
+ },
+ {
+  "id": "yt-02",
+  "version": 3,
+  "title": "Grammatik 2 – Neue Verben & Futur (ghadi / gha)",
+  "source": "Grammatik · 24 Karten",
+  "file": "yt-02.json"
+ },
+ {
+  "id": "basics-05",
+  "version": 1,
+  "title": "Basics 5 – Zeit & Wochentage",
+  "source": "Basics · 22 Karten",
+  "file": "basics-05.json"
+ },
+ {
+  "id": "basics-06",
+  "version": 1,
+  "title": "Basics 6 – Kleine Wörter",
+  "source": "Basics · 23 Karten",
+  "file": "basics-06.json"
+ },
+ {
+  "id": "yt-03",
+  "version": 3,
+  "title": "Grammatik 3 – Vergangenheit",
+  "source": "Grammatik · 36 Karten",
+  "file": "yt-03.json"
+ },
+ {
+  "id": "basics-07",
+  "version": 2,
+  "title": "Basics 7 – Wichtige Verben",
+  "source": "Basics · 20 Karten",
+  "file": "basics-07.json"
+ },
+ {
+  "id": "basics-08",
+  "version": 1,
+  "title": "Basics 8 – Essen, Café & Markt",
+  "source": "Basics · 23 Karten",
+  "file": "basics-08.json"
+ },
+ {
+  "id": "yt-04",
+  "version": 2,
+  "title": "Grammatik 4 – Nomen: Geschlecht, Plural & Artikel",
+  "source": "Grammatik · 44 Karten",
+  "file": "yt-04.json"
+ },
+ {
+  "id": "basics-09",
+  "version": 1,
+  "title": "Basics 9 – Familie & Menschen",
+  "source": "Basics · 18 Karten",
+  "file": "basics-09.json"
+ },
+ {
+  "id": "yt-05",
+  "version": 2,
+  "title": "Grammatik 5 – Besitz (mein, dein …) & mir/dir",
+  "source": "Grammatik · 46 Karten",
+  "file": "yt-05.json"
+ },
+ {
+  "id": "basics-10",
+  "version": 1,
+  "title": "Basics 10 – Orte & Wege",
+  "source": "Basics · 16 Karten",
+  "file": "basics-10.json"
+ },
+ {
+  "id": "yt-06",
+  "version": 2,
+  "title": "Basics 4b – Zahlen bis 99",
+  "source": "Basics · 23 Karten",
+  "file": "yt-06.json"
+ },
+ {
+  "id": "basics-11",
+  "version": 1,
+  "title": "Basics 11 – Adjektive",
+  "source": "Basics · 17 Karten",
+  "file": "basics-11.json"
+ },
+ {
+  "id": "yt-07",
+  "version": 1,
+  "title": "Grammatik 6 – Fragen stellen & antworten",
+  "source": "Grammatik · 20 Karten",
+  "file": "yt-07.json"
+ },
+ {
+  "id": "yt-08",
+  "version": 1,
+  "title": "Grammatik 7 – Sätze mit Adjektiven",
+  "source": "Grammatik · 27 Karten",
+  "file": "yt-08.json"
+ }
+]

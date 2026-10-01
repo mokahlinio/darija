@@ -1,0 +1,123 @@
+{
+ "id": "yt-06",
+ "version": 2,
+ "title": "Basics 4b – Zahlen bis 99",
+ "notes": "0–12 haben eigene Namen (siehe Basics 4 – Zahlen).\n\n13–19: Zahl 3–9 + -tach, die Endung fällt weg\ntlata → tlettach · rb3a → rb3tach · khamsa → khmstach · stta → settach\nsb3a → sb3tach · tmnya → tmntach · ts3ud → ts3tach\n\n21–99: Einer + u (und) + Zehner – wie im Deutschen „einundzwanzig“\nwa7ed u 3chrin = 21 · tlata u tlatin = 33\nAchtung: Bei der 2 nimmt man tnin statt jouj → tnin u 3chrin = 22\nGeschrieben wird es meist zusammen; u und w sind dasselbe.\n\nZEHNER\n20 3chrin · 30 tlatin · 40 rb3in · 50 khamsin\n60 sttin · 70 sb3in · 80 tmanin · 90 tes3in\n\nHinweis: Aus dem automatischen YouTube-Transkript rekonstruiert. ⚠︎ = im Video nachhören.",
+ "cards": [
+  [
+   "und (bei Zahlen)",
+   "u / w",
+   "wa7ed u 3chrin = 21"
+  ],
+  [
+   "zwei (in 22, 32, 42 …)",
+   "tnin",
+   "Statt jouj!"
+  ],
+  [
+   "60 / sechzig",
+   "sttin",
+   ""
+  ],
+  [
+   "70 / siebzig",
+   "sb3in",
+   ""
+  ],
+  [
+   "80 / achtzig",
+   "tmanin",
+   ""
+  ],
+  [
+   "90 / neunzig",
+   "tes3in / ts3in",
+   ""
+  ],
+  [
+   "21 / einundzwanzig",
+   "wa7ed u 3chrin",
+   "Einer + u + Zehner"
+  ],
+  [
+   "22 / zweiundzwanzig",
+   "tnin u 3chrin",
+   "tnin statt jouj"
+  ],
+  [
+   "23 / dreiundzwanzig",
+   "tlata u 3chrin",
+   ""
+  ],
+  [
+   "25 / fünfundzwanzig",
+   "khamsa u 3chrin",
+   ""
+  ],
+  [
+   "32 / zweiunddreißig",
+   "tnin u tlatin",
+   ""
+  ],
+  [
+   "37 / siebenunddreißig",
+   "sb3a u tlatin",
+   ""
+  ],
+  [
+   "44 / vierundvierzig",
+   "rb3a u rb3in",
+   ""
+  ],
+  [
+   "51 / einundfünfzig",
+   "wa7ed u khamsin",
+   ""
+  ],
+  [
+   "58 / achtundfünfzig",
+   "tmnya u khamsin",
+   ""
+  ],
+  [
+   "63 / dreiundsechzig",
+   "tlata u sttin",
+   ""
+  ],
+  [
+   "69 / neunundsechzig",
+   "ts3ud u sttin",
+   ""
+  ],
+  [
+   "72 / zweiundsiebzig",
+   "tnin u sb3in",
+   ""
+  ],
+  [
+   "76 / sechsundsiebzig",
+   "stta u sb3in",
+   ""
+  ],
+  [
+   "85 / fünfundachtzig",
+   "khamsa u tmanin",
+   ""
+  ],
+  [
+   "88 / achtundachtzig",
+   "tmnya u tmanin",
+   ""
+  ],
+  [
+   "91 / einundneunzig",
+   "wa7ed u tes3in",
+   ""
+  ],
+  [
+   "99 / neunundneunzig",
+   "ts3ud u tes3in",
+   ""
+  ]
+ ]
+}
